@@ -1,0 +1,1 @@
+@Query(value="SELECT * FROM employee", nativeQuery = true)

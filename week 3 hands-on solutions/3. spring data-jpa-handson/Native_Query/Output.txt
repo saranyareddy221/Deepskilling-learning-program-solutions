@@ -1,0 +1,1 @@
+Native SQL query executed successfully to fetch all employees.

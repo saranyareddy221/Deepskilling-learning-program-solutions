@@ -1,0 +1,5 @@
+This task presents the comparison between JPA, Hibernate, and Spring Data JPA in theory and code.
+
+- summary.txt contains a brief summary of each.
+- comparison.md contains a markdown-formatted table and sample code snippets for comparison.
+- This is a text-based output, so no visual output files are included.

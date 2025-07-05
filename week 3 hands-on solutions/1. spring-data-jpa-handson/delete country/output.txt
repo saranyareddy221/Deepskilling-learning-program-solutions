@@ -1,0 +1,3 @@
+Start: testDeleteCountry
+Country with code JP deleted
+End: testDeleteCountry

@@ -1,0 +1,10 @@
+
+This Spring Boot application provides a REST API to manage a library of books.
+
+Endpoints:
+- GET /books: Fetch all books
+- POST /books: Add a new book
+- PUT /books/{id}: Update a book by ID
+- DELETE /books/{id}: Delete a book by ID
+
+The application uses H2 in-memory database and includes configuration in application.properties.

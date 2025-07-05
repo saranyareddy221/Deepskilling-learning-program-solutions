@@ -1,0 +1,1 @@
+public static void testGetAverageSalary() { /* Call service and log */ }

@@ -1,0 +1,1 @@
+public static void testGetAllPermanentEmployees() { /* Logging Logic */ }

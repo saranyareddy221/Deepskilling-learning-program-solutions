@@ -1,0 +1,1 @@
+public Attempt getAttempt(int userId, int attemptId);

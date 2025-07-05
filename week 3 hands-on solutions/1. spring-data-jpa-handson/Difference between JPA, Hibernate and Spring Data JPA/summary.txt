@@ -1,0 +1,8 @@
+Summary:
+---------
+JPA (Java Persistence API) is a specification for object-relational mapping in Java.
+Hibernate is a popular implementation of JPA and also provides additional features.
+Spring Data JPA is an abstraction layer on top of JPA (typically using Hibernate) to reduce boilerplate code.
+
+Use Spring Data JPA when you want rapid development and less boilerplate.
+Use Hibernate directly if you need fine-tuned control over ORM operations.

@@ -1,0 +1,1 @@
+Query and fetch operation successful. Single query executed with joins.

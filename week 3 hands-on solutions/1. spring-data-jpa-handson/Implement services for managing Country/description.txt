@@ -1,0 +1,15 @@
+This example demonstrates how to implement basic CRUD and search services for Country using Spring Data JPA.
+
+Features:
+- Find country by code
+- Add new country
+- Update existing country
+- Delete a country
+- Search countries by partial name
+
+Refer the code in:
+- Country.java (Entity)
+- CountryRepository.java (Repository)
+- CountryService.java (Service)
+
+Test these features by calling the service methods in a Spring Boot application context.

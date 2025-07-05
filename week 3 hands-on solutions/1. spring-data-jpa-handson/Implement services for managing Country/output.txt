@@ -1,0 +1,1 @@
+This output corresponds to the CRUD and search operations on Country entity. Screenshots can be captured from Postman or browser while calling REST endpoints.

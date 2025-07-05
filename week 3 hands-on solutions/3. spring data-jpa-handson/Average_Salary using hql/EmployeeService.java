@@ -1,0 +1,1 @@
+public double getAverageSalary(int id);

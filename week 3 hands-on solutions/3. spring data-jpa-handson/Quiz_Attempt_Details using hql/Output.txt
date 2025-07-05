@@ -1,0 +1,1 @@
+Fetched all attempt details with user, questions, and answers using fetch joins.
