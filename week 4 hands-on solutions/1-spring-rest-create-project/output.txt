@@ -1,0 +1,2 @@
+Spring Boot project created with Maven, built using mvn package.
+Main class executed successfully.
